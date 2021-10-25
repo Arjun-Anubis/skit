@@ -4,7 +4,7 @@ Act 1, First contact
 	scene 2, Perserverance
 		Hecker scene possibly, Gets into video editing, many failures but success too, meanwhile the tension grows
 	scene 3, The first struggle
-		He gets stuck on something, I dont know what but something, 
+		Gets stuck on exams
 
 
 Act 2, The light at the end of the tunnel/ A taste of success
