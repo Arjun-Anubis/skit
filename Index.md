@@ -4,14 +4,14 @@ Act 1, First contact
 	scene 2, Perserverance
 		Hecker scene possibly, Gets into video editing, many failures but success too, meanwhile the tension grows
 	scene 3, The first struggle
-		Gets stuck on exams
+		Gets stuck on exams, getting slapped
 
 
 Act 2, The light at the end of the tunnel/ A taste of success
 	scene 1, A taste of success
-		The first video, we can  just show this by the comments
-	scene 2, The first subscribers
-		More videos uploaded, more subscribers
+		The first videos, we can just show this by the comments
+	scene 2, Anticipation
+		 Meanwhile the tension grows further
 	scene 3, A moment of sunlight/ The calm before the storm
 		Goes viral, very proud of himself now
 
