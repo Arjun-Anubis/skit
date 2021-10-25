@@ -1,52 +1,47 @@
-Charachters: mc, Mother, Father
-
 Act 1
 
 Scene 2, Persverance
 
+Charachters: mc, Mother, Father
+
 Part 1:
 
-<!-->Then we see him try it a couple of times, the first time, its just- I have an idea here (wrong side) we'll finish this later</!-->
+<!-->
+
+Then we see him try it a couple of times, the first time, its just- I have an idea here (wrong side) we'll finish this later
+
+<-->
 
 
 Setting: mc's desk
 
-_Camera opens to the mc following along with a video tutorial about video editing, he follows along with the steps, in the video the text slides of into the right, his text wobbles around like crazy and then fizzles out, puts his head in his hands, and starts again_
+_Camera opens to the mc following along with a video tutorial about video editing,
+he follows along with the steps, in the video the text slides of into the right,
+his text wobbles around like crazy and then fizzles out, puts his head in his hands, and starts again_
 
-	FADE TO BLACK
+FADE TO BLACK
 
+_Another attempt, this time the videos play as normal, but his inches closer to the edge at a vissibly closer rate_
 
-	_Another attempt, this time the videos play as normal, but his inches closer to the edge at a vissibly closer rate_
+mc: please please please!
 
+_Almost at the end_
 
-	mc: please please please
+mc starts banging his fist to move it along*
 
+_snaps back to the right_
 
-	_Almost at the end_
-	
+_mc goes back in the video, reviews the steps, and makes a few changes of his own_
 
-	mc starts banging his fist to move it along*
+_test, pause, success_
 
+mc: [Yosh]
 
-	*snaps back to the right*
+_The frame gets smaller and start goig towards the right, snaps back to the left and out of frame_
 
-
-	*mc goes back in the video, reviews the steps, and makes a few changes of his own*
-
-
-	_works_
-
-
-	mc: [Yosh]
-
-
-	_The frame gets smaller and start goig towards the right, snaps back to the left and out of frame_
-
-
-	_Voice over from mc: Darn it_
+mc (Outside frame): Darn it!
 
 Part 2:
-
 
 Setting: Living room.
 

@@ -2,6 +2,10 @@ Act 1
 
 Scene 3, The first struggle
 
+Charachters: Mother, mc, friends, teacher
+
+Part 1,
+
 Setting: Bedroom
 
 _The camera opens to the mc, recording for his video. We see a sheet stuck on the wall saying the exams start next week_
@@ -16,14 +20,35 @@ Mother (Sarcastic): Padhai ho gayi beta?
 
 mc ( Still hasnt realized that Mother has opened the door and is watching him ): Hmmmmm!
 
-*Mother unpluds the pc
+*Mother unplugs the pc*
 
-Mother: Padhai kar lo beta! Agle hafte exams aa rahe hain! Poora din khelte hi rehte ho! Exams aa rahe hain tab bhi padhai nahi kar rahe! 	  Aankhe kharab ho jaaenge. Dimag toh pehle se hi kharab hai.
+*mc(startled) looks back, realization dawns*
 
-Mc: Aapko computer ke baare mein kuchh nahi pata. Aap to mat hi bolo. Apna mooh band kar lo.
+Mother: Exam ke liye siraf ek hafta bacha hai. Padnhna kab shuru karoge??
+
+mc: ...
+
+<!-- Aakhein kharab hone waala point><-->
 
 _She slaps him_
 
-Mother: Abhi padhai karna shuroo karo. Poori raat padhna. Varna kumpooter le loongi!
+Mother: Abhi padhai karna shuroo karo. Man lagga ke padho. Varna kumpooter le loongi!
 
 _She exits the room and slams the door_
+
+CUT TO PART 2
+
+Part 2, 
+
+Setting: Exam hall
+
+*mc is finishing up his exam, he scribbles down the last word, satisfied he submits it to the teacher*
+
+*mc walks out of the room to join his friends, clearly they are all enjoying the end of tehir exams*
+
+Friend: Bas, ab main ek aur shabd nahi padh sakta
+Friend2: Main toh do hafto tak book bhi nahi chhoo ne waala
+
+*mc nods along, the actors leave the set*
+
+FADE TO BLACK
