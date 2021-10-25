@@ -5,6 +5,7 @@ Act 1
 Scene 2, Persverance
 
 Part 1:
+<!-->Then we see him try it a couple of times, the first time, its just- I have an idea here (wrong side) we'll finish this later</!-->
 	Setting: mc's desk
 	_Camera opens to the mc following along with a video tutorial about video editing, he follows along with the steps, in the video the text slides of into the right, his text wobbles around like crazy and then fizzles out, puts his head in his hands, and starts again_
 
@@ -37,4 +38,3 @@ Part 2:
 
 
 
-_Then we see him try it a couple of times, the first time, its just- I have an idea here (wrong side) we'll finish this later_
