@@ -26,7 +26,7 @@ CUT TO PARENTS ROOM
 
 Father: {mc} ko dekha hai? Uske school se mail aai hai
 
-Mother: Apne kamre mein hai, itni der se bahar nahi aaya hai| bahut man laga ke padh raha hoga, itni der se kuchh nahi khaya hai, uske liye khaana le jaati hoon!
+Mother: Apne kamre mein hai, itni der se bahar nahi aaya hai. bahut man laga ke padh raha hoga, itni der se kuchh nahi khaya hai, uske liye khaana le jaati hoon!
 
 CUT TO STAIRS
 
@@ -77,17 +77,3 @@ Father: accha {mc}, tere school se ke letter mein teri report card aai hai...
 
 Father: Ye kya hai? Video games? 
 
-
-*********************************
-
-Insert part about becoming a doctor or engineer here
-
-*********************************
-
-*********************************
-
-Speech about being a youtubere here
-
-some hardowork bs
-
-*********************************
