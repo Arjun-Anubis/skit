@@ -21,13 +21,13 @@ his text wobbles around like crazy and then fizzles out, puts his head in his ha
 
 FADE TO BLACK
 
-_Another attempt, this time the videos play as normal, but his inches closer to the edge at a vissibly closer rate_
+_Another attempt, this time the videos play as normal, but his inches closer to the edge_
 
 mc: please please please!
 
 _Almost at the end_
 
-mc starts banging his fist to move it along*
+*mc starts banging his fist to move it along*
 
 _snaps back to the right_
 
@@ -37,7 +37,7 @@ _test, pause, success_
 
 mc: [Yosh]
 
-_The frame gets smaller and start goig towards the right, snaps back to the left and out of frame_
+_The frame gets smaller and start going towards the right, snaps back to the left and out of frame_
 
 mc (Outside frame): Darn it!
 

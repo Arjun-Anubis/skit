@@ -7,7 +7,7 @@ Setting: Bedroom
 _click_
 
 MC
-Hi guys, my name is a-sfsd
+Hi guys, my name is {mc}
 
 *slams his face into the table*
 

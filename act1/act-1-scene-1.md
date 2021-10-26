@@ -24,7 +24,6 @@ Sighs, he's too lazy to go back, falls back, phone up in his hands
 As the video goes on, he perks up little by little, till he is sitting up_
 
 *The video ends*
-
 *mc gets up, walks to his desk*
 
 Part 2:	
