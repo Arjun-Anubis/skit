@@ -40,6 +40,13 @@ CUT TO PART 2
 
 Part 2, 
 
+Setting: Bedroom
+
+*Epic baadaam dooth studying montage*
+
+
+Part 3, 
+
 Setting: Exam hall
 
 *mc is finishing up his exam, he scribbles down the last word, satisfied he submits it to the teacher*
