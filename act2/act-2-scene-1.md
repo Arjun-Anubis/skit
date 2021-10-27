@@ -7,26 +7,20 @@ Setting: Bedroom
 _click_
 
 MC
-Hi guys, my name is {mc}-
+Hi guys, my name is- 
 
 *slams his face into the table*
+Hi guys, my name is MC, today we are gonna be fbrvbrbv
+*slaps himself mulitiple times* 
 
+*showing the end now 
+Please, like, share and subhfrufrfn
+Please like, share, and subscribe to xxepiclegendryProGamersussasukemcninja69xx ( make it longer) 
 <!-->
 Bloopers, basically
 like the ones in https://www.youtube.com/watch?v=wbbH77rYaa8&t=104s
-<-->
+<--> 
+From Ayush (COB clips) (ifykyk) 
 
-MC
-Hi guys, my name is [mc] and today we're gonna be...
-
-CUT TO A MONTAGE OF GAMING THINGS
-
-<!-->
-
-To do:
-
-Check with atharv and hp if this is the kind of youtuber they meant, I honestly dont know how a video like that would be filmed
-
-<-->
 
 _Show him uploading his first video_
