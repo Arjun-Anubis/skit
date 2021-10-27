@@ -7,12 +7,13 @@ Setting: Bedroom
 _click_
 
 MC
-Hi guys, my name is {mc}
+Hi guys, my name is {mc}-
 
 *slams his face into the table*
 
 <!-->
 Bloopers, basically
+like the ones in https://www.youtube.com/watch?v=wbbH77rYaa8&t=104s
 <-->
 
 MC
@@ -29,4 +30,3 @@ Check with atharv and hp if this is the kind of youtuber they meant, I honestly 
 <-->
 
 _Show him uploading his first video_
-
