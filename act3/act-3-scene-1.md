@@ -65,7 +65,7 @@ Mother: Hai ram! hai ram!
 
 CUT TO THE PLATE WITH FOOD WITH VOICE OVER BY MC AND MOTHER
 
-Mother: Kya hoga tera? Purre din computer par khelti hi raheta hai! Dimaag  parso ke paalak paneer jaise sard jaayega! Ek ghanta bhi nahi padta! Sharma ji ka beta din mein pacchis ghante padta hai! Patta hai uske math mein 105 on 100 aaye hai! Aur tu, ekdam nalayak! 
+Mother: Kya hoga tera? Purre din computer par khelti hi raheta hai! Dimaag  parso ke paalak paneer jaise sard jaayega! Ek ghanta bhi nahi padta! Sharma ji ka beta din mein pacchis ghante padta hai! Patta hai uske math mein 105 on 100 aaye hai! Aur tu, ekdam nalayak! [apsara pencils show up on screen }
 
 mc: Par mumma-
 
@@ -79,5 +79,5 @@ Father: Ye kya hai? Video games?
 
 *Father reveals the marks*
 
-Mother: har din do litre badaam milk pilathi thi tab bhi acha nahi kiya
-Mother: agli baar patanjali ka pala flavour shud doodh oilana padhega
+Mother: har din do litre badaam milk piya tha tab bhi acha nahi kiya
+Mother: agli baar patanjali ka neem-karela-tulsi--adrak-ashwagandha aur paanch ayurvdeic tatvo waali  flavour shud doodh pilana padhega
