@@ -23,4 +23,4 @@ like the ones in https://www.youtube.com/watch?v=wbbH77rYaa8&t=104s
 From Ayush (COB clips) (ifykyk) 
 
 
-_Show him uploading his first video_
+_Show him uploading his first video (Screen recording)_
