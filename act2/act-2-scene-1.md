@@ -15,7 +15,7 @@ Hi guys, my name is MC, today we are gonna be fbrvbrbv
 
 *showing the end now 
 Please, like, share and subhfrufrfn
-Please like, share, and subscribe to xxepiclegendryProGamersussasukemcninja69xx ( make it longer) 
+Please like, share, and subscribe to xxepiclegendryProGamersussasukemcnoobmaster69xx ( make it longer) 
 <!-->
 Bloopers, basically
 like the ones in https://www.youtube.com/watch?v=wbbH77rYaa8&t=104s
