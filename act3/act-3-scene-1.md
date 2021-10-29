@@ -1,16 +1,16 @@
-### Script 2nd half
+  ### Script 2nd half
 
-Charachters: mc, mother, father
+  Charachters: mc, mother, father
 
-Act 3
+  Act 3
 
-Scene 1, Confrontation
+  Scene 1, Confrontation
 
-Setting: The mc's bedroom with a streaming set up
+  Setting: The mc's bedroom with a streaming set up
 
-_We see the mc getting ready for his first ever stream, he's got it all set up the way he wants and his mouse is hovering over "Start Stream"_
+  _We see the mc getting ready for his first ever stream, he's got it all set up the way he wants and his mouse is hovering over "Start Stream"_
 
-Narrator (as the mc's inner voice): This is it, webcam? check! Microphone? check! Capture card? Check! Ok ok I've just got go for it!
+  Narrator (as the mc's inner voice): This is it, webcam? check! Microphone? check! Capture card? Check! Ok ok I've just got go for it!
 
 _audible click_
 
@@ -80,4 +80,8 @@ Father: Ye kya hai? Video games?
 *Father reveals the marks*
 
 Mother: har din do litre badaam milk piya tha tab bhi acha nahi kiya
-Mother: agli baar patanjali ka neem-karela-tulsi--adrak-ashwagandha aur paanch ayurvdeic tatvo waali  flavour shud doodh pilana padhega
+Mother: agli baar patanjali ka neem-karela-tulsi--adrak-ashwagandha aur paanch ayurvdeic tatvo waali  flavour shud doodh pilana padhega.
+
+_Mother and father get up angrily and leave the room, slamming the door behind them_
+
+CUT
