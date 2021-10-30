@@ -13,7 +13,7 @@ _mc is buying bread_
 _walks out of the shop_
 
 _a stranger runs up to him_
-stranger: OMG u r {channel name}. I am your biggest fan.
+stranger: OMG u r xxepiclegendryProGamersussasukeishaannoobmaster69xx. I am your biggest fan.
 mc(dejectedly): Thanks.
 stranger: But why did u stop making videos? Your videos were awesome.
 _mc sighs_

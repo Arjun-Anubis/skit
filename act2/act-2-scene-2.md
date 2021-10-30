@@ -20,7 +20,7 @@ Tries to open the door, its locked
 
 CUT
 
-_The father laying back, exhausted and his recliner after a long day of work_
+_The father laying back, exhausted in his recliner after a long day of work_
 
 _The mother is pacing around the room explaining about the locked door_
 

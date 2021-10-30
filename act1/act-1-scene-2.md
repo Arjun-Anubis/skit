@@ -40,22 +40,22 @@ Part 2:
 
 Setting: Living room.
 
-_The next door aunty has come over, the mc's mother and the aunty have sat down in a typical indian fashion_
+_The next door uncle has come over, the mc's father and the uncle have sat down in a typical indian fashion_
 
-Mother: Arre beta, Kitchen se chai-biscuit le aa
+Father: Arre beta, Kitchen se chai-biscuit le aa
 
 _Audible sounds of someone walking_
 
-Aunty: Itna achha ladka hai, mera ladka toh kabhi kuchh sunnta hi nahi hai
+Uncle: Itna achha ladka hai, mera ladka toh kabhi kuchh sunnta hi nahi hai
 
-Mother: nahi nahi, rishabh ne toh top kiya ha na, wo toh lawyer banega na?
+Father: nahi nahi, rishabh ne toh top kiya ha na, wo toh lawyer banega na?
 
-Aunty: Patta nahi kaise marks aa gaye, mujhe toh bahut shak ho raha hai
+Uncle: Patta nahi kaise marks aa gaye, mujhe toh bahut shak ho raha hai
 
-Mother: Nahi nahi, rishabh to aise nahi karega, har baar mujhe namaste karta hai. mera {mc} toh itna battameez hai!
+Father: Nahi nahi, rishabh to aise nahi karega, har baar mujhe namaste karta hai. mera ishaan toh itna battameez hai!
 
 _mc comes in with the chai and biscuit, his back to us so we can not see his expression_
 
-mc: Namste aunty ( in a bitter tone and a strained voice, since he overheard everything)
+mc: Namste uncle( in a bitter tone and a strained voice, since he overheard everything)
 
 CUT

@@ -28,8 +28,8 @@ _phone rings_
 _mc picks it up_
 
 mc: Haan bol.
-friend: COB khelna hai? Adi aur bhaiya bhi hai.
+friend1: COB khelna hai? Adi aur bhaiya bhi hai.
 _mc sighs_
-friend: Oh... sorry.
+friend1: Oh... sorry.
 
 CUT

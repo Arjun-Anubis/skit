@@ -6,7 +6,7 @@ Setting: parent's bedroom
 
 PART 1:
 
-Father(shouting): {mc} IDHAR AA! MERE KAMRE MEIN!
+Father(shouting): ISHAAN IDHAR AA! MERE KAMRE MEIN!
 
 CUT TO MC ENTERING THE ROOM
 

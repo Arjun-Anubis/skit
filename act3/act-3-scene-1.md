@@ -22,7 +22,7 @@ user3	Good luck {mc}!
 
 CUT TO PARENTS ROOM
 
-Father: {mc} ko dekha hai? Uske school se mail aai hai
+Father: Ishaan ko dekha hai? Uske school se mail aai hai
 
 Mother: Apne kamre mein hai, itni der se bahar nahi aaya hai. bahut man laga ke padh raha hoga, itni der se kuchh nahi khaya hai, uske liye khaana le jaati hoon!
 
@@ -34,7 +34,7 @@ _another knock_
 
 *Furious knocking*
 
-Muffled: ANDAR KYA KAR RAHA HAI {MC}! DARVAAZA KHOL
+Muffled: ANDAR KYA KAR RAHA HAI ISHAAN! DARVAAZA KHOL
 
 CUT TO SCREEN
 

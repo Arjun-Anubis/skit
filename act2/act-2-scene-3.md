@@ -22,7 +22,7 @@ _mc enters park, friends standing and chatting_
 
 _mc walks up to them_
 
-Friend1: Oi {mc} maine teri video dekhi. Wo to viral ho gayi hai. Tune akele 4 bandon ko maar diya.
+Friend1: Oi Ishaan maine teri video dekhi. Wo to viral ho gayi hai. Tune akele 4 bandon ko maar diya.
 mc: Itna kuchh nahi tha yaar. Charon noobs the.
 Friend2: Par tab bhi 4 bande to maare na.
 mc: Arre bahut badhe noobs the. Tu bhi aaram se maar leta.
