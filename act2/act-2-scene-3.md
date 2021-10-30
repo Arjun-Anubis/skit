@@ -4,18 +4,29 @@ Scene 3,
 
 Part 1,
 
-<!-->
+_show him posting a video_
 
-This part is to show the mc making a video that goes viral, we need to show him actually shooting this video.
+CUT
 
-Please add, a fully descriptive part of him making sych a video as I do not know what sort of video you guys think will go viral.
+_likes and views of that video going up_
 
-<-->
+_subscribers going up_
+
+_good comments on that vid_
 
 Part 2,
 
-Here we show an animation of the video going through the thernet cables into the ground and out into the worl and out to other people's cell phones
+Setting: Park
 
-Rapid scne switch of phones of different colours playing said viral video, and then to tv's and laptops as well with background sounds like ooh, nice hmmm etc.
+_mc enters park, friends standing and chatting_
+
+_mc walks up to them_
+
+Friend1: Oi {mc} maine teri video dekhi. Wo to viral ho gayi hai. Tune akele 4 bandon ko maar diya.
+mc: Itna kuchh nahi tha yaar. Charon noobs the.
+Friend2: Par tab bhi 4 bande to maare na.
+mc: Arre bahut badhe noobs the. Tu bhi aaram se maar leta.
+
+_friends laugh_
 
 CUT

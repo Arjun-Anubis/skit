@@ -6,7 +6,7 @@ Setting: Park
 
 _Enters park, friends playing football_
 
-_Walks up to friend1_
+_Walks up to them_
 
 friend1: Are you ok? Ria ne reject kar diya kya?
 mc(solemnly): Haan bhai...

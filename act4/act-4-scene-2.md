@@ -18,7 +18,7 @@ mc: Main padhai aur v-tube donon kar sakta hoon. Please. Mujhe pata hai ki aapko
 
 _parents think for a bit_
 
-Mother: Par ek sharth pe-
+Mother: Thik hai par ek sharth pe-
 
 mc: Ki main harroz 3 ghante padhoonga.
 

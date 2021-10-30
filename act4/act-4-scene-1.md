@@ -25,4 +25,3 @@ _mc departs_
 _on the way_
 
 mc(sad expression)(to himself): I really should start making videos again.
-
