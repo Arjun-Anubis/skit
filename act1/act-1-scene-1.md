@@ -36,4 +36,8 @@ Setting: Mc's desk
 
 Footage of him starting a youtube channel
 
+_Filling in his name_
+
+_Setting up a profile picture_
+
 CUT
