@@ -1,8 +1,10 @@
-Act 3,
+##Act 3,
 
 Scene 3,
 
 Setting: Park
+
+Charchters: mc, friend1, friend2
 
 _Enters park, friends playing football_
 

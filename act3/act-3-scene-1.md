@@ -1,10 +1,10 @@
-Charachters: mc, mother, father
-
-Act 3,
+##Act 3,
 
 Scene 1, Confrontation
 
 Setting: The mc's bedroom with a streaming set up
+
+Charachters: mc, mother, father
 
 _We see the mc getting ready for his first ever stream, he's got it all set up the way he wants and his mouse is hovering over "Start Stream"_
 

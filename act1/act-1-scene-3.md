@@ -1,4 +1,4 @@
-Act 1
+##Act 1
 
 Scene 3, The first struggle
 
@@ -44,8 +44,8 @@ _mc is finishing up his exam, he scribbles down the last word, satisfied he subm
 
 _mc walks out of the room to join his friends, clearly they are all enjoying the end of their exams_
 
-Friend: Bas, ab main ek aur shabd nahi padh sakta
-Friend2: Main toh do hafto tak book bhi nahi chhoo ne waala
+friend1: Bas, ab main ek aur shabd nahi padh sakta
+friend2: Main toh do hafto tak book bhi nahi chhoo ne waala
 
 *mc nods along, the actors leave the set*
 
