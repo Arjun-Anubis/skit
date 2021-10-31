@@ -8,15 +8,15 @@ _Enters park, friends playing football_
 
 _Walks up to them_
 
-friend1: Are you ok? Ria ne reject kar diya kya?
+friend2: Are you ok? Ria ne reject kar diya kya?
 mc(solemnly): Haan bhai...
-friend2: Really?!
+friend1: Really?!
 mc: Boora waala reject kiya.
-friend1: Did she slap you?
+friend2: Did she slap you?
 mc: Chup!
-friend2: Sachchi bata, kya hua?
+friend1: Sachchi bata, kya hua?
 mc: Yaar mata shri ne computer le liya.
-friend1: V-Tube?
+friend2: V-Tube?
 _mc shrugs_
 
 CUT
