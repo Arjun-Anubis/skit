@@ -1,38 +1,37 @@
 Act 1, First contact
 	scene 1, Discovery
-		First watched the vid, starts his own youtube channel
+		Watches Mr.Sneax's video. Starts his own v-tube channel.
 	scene 2, Perserverance
-		Hecker scene possibly, Gets into video editing, many failures but success too, meanwhile the tension grows
+		Gets into video editing. Many failures but success too. Next door uncle comes over.
 	scene 3, The first struggle
-		Gets stuck on exams, getting slapped
+		Gets stuck on exams. Finishes exams.
 
 
-Act 2, The light at the end of the tunnel/ A taste of success
+Act 2, The light at the end of the tunnel
 	scene 1, A taste of success
-		The first videos, we can just show this by the comments
+		Making and uploading of first video.
 	scene 2, Anticipation
-		 Meanwhile the tension grows further
-	scene 3, A moment of sunlight/ The calm before the storm
-		Goes viral, very proud of himself now
+		Tension grows in kitchen scene.
+	scene 3, The calm before the storm
+		Viral video. Subscribers, likes, views going up. Goes to park and talks to his friends.
 
 
 
-Act 3, Climax
+Act 3, Back into the tunnel.
 	scene 1, Getting caught
-		Gets caugt by his parents, his computer gets taken
-	scene 2, Memories
-		With his computer gone, he contemplates. He reminsces
-	scene 3, Return to normalcy
-		Football scene
-		he goes back to doing normal things, but he doesnt enjoy them at all
+		Mother catches him doing his first stream while bringing him dinner. He gets scolded and computer gets confiscated.
+	scene 2, Getting scolded
+		He is called into the parents' room and gets scolded.
+	scene 3, Depression
+		Goes to the park and talks to friends. Gets a phone call for playing COB but has no computer.
 
 
 Act 4, Chasing dreams
 	scene 1, Motivation
-		Meets a subscriber, who inspires him to start making videos again
-	scene 2, Blessings
-		His parents are proud of him here
-	scene 3, Collaboration
-		His dreams are achieved, he is at peace
+		Meets a subscriber while shopping for groceries. Gets motivated.
+	scene 2, Being Convincing
+		Convinces parents to give him his computer back.
+	scene 3, Success
+		His dreams are achieved, he is at peace.
 
 
