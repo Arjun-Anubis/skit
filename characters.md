@@ -1,4 +1,4 @@
-mc			: Arjun
+mc			: To be decided
 mother			: Nayneka
 father			: Kavin
 friend1 + teacher	: Ayush
