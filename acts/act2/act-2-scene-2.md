@@ -24,11 +24,11 @@ _The father laying back, exhausted in his recliner after a long day of work_
 
 _The mother is pacing around the room explaining about the locked door_
 
-Father(angry) :  MERE HI GHAR MEIN ITNI BATTAMEEZI!! !!!! koi izzat nahi hai apni maa ke liye?!?!?!?!
+Father(angry) : MERE HI GHAR MEIN AASI HAALAT!!!!!! koi izzat nahi hai apni maa ke liye?!?!?!?!
 
 Mother(Trying to calm down the father): sunniye, bas bacchha hi toh hai wo-
 
-Father: agar main nahi ho ta to wo sadak pe bheek maang rahe hota! Abhi sumjha ke aata hoon!
+Father: agar main nahi ho ta to wo idhar udhar bhatak rahe hota! Abhi sumjha ke aata hoon!
 
 _He storms of to the mc's room but finds it locked_
 

@@ -20,7 +20,7 @@ Father: nahi nahi, rishabh ne toh top kiya ha na, wo toh lawyer banega na?
 
 Uncle: Patta nahi kaise marks aa gaye, mujhe toh bahut shak ho raha hai
 
-Father: Nahi nahi, rishabh to aise nahi karega, har baar mujhe namaste karta hai. mera ishaan toh itna battameez hai!
+Father: Nahi nahi, rishabh to aise nahi karega, har baar mujhe namaste karta hai. mere ishaan ke paas to itni tameez bhi nahi hai!
 
 _mc comes in with the chai and biscuit, his back to us so we can not see his expression_
 
