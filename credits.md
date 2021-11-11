@@ -1,3 +1,3 @@
-Script writing	- Arjun, Nayneka, Ayush, Ambuj, Dhairya, Kavin
+Script writing	- Arjun, Nayneka, Ayush
 Acting		- Nayneka, Ayush, Ambuj, Dhairya, Kavin
 Editing		- Nayneka
